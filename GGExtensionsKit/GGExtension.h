@@ -10,4 +10,5 @@
 
 @interface GGExtension : UIView
 
+@property (nonatomic, copy) NSString *version;
 @end
